@@ -1,0 +1,31 @@
+body{
+  font-size: 14px;
+  line-height: 1.42857;
+  color: #12283C;
+}
+
+a{
+  color: #12283C;
+}
+
+
+body, html, h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+  font-family: "Avenir","HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue","Helvetica","Arial","Lucida Grande",sans-serif;
+}
+
+h1{
+  text-align: center;
+  border-radius: 5px;
+  color: #3E3D40;
+}
+
+a{
+  text-decoration: none;
+}
+ul, ol {
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+ul ul, ol ul, ul ol, ol ol {
+  margin-bottom: 0px;
+}
